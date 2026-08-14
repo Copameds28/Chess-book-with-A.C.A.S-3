@@ -2269,7 +2269,7 @@ function getBoardSquareChangeAmount(lastFen, newFen) {
 // Files are fetched in parallel and merged (same position = moves combined).
 const OPENING_BOOK_URLS = [
     'https://cdn.jsdelivr.net/gh/Copameds28/Chess-book-with-A.C.A.S-3@main/gm_openings.json',
-    // 'https://cdn.jsdelivr.net/gh/Copameds28/Chess-book-with-A.C.A.S-3@main/my_other_book.json',
+    'https://cdn.jsdelivr.net/gh/Copameds28/Chess-book-with-A.C.A.S-3@main/twic_openings.json',
 ];
 // ─────────────────────────────────────────────────────────────────────────────
 
